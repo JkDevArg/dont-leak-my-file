@@ -1,0 +1,7 @@
+tk
+ttkbootstrap
+pillow
+pycryptodome
+stepic
+zlib-ng
+stegano
