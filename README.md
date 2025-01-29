@@ -125,7 +125,9 @@ dont-leak-my-file/
 ## Contacto 📩
 
 **Developer**: Joaquin Centurión
+
 GitHub: [JkDevArg](https://github.com/JkDevArg)
+
 LinkedIn: [Joaquin Centurión](https://www.linkedin.com/in/joaquincenturion/)
 
 ¡Reporta cualquier issue en el repositorio!
