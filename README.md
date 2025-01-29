@@ -74,12 +74,19 @@ Aplicación de protección contra filtraciones de documentos desarrollada en Pyt
 
 ## Estructura del proyecto 📂
 
+
 dont-leak-my-file/
+
 ├── main.py
+
 ├── crypto.py # Lógica de cifrado AES
+
 ├── database.py # Manejo de base de datos SQLite
+
 ├── gui.py # Interfaz gráfica
+
 ├── watermark.py # Sistema de watermarking
+
 └── documents.db # Base de datos de registros
 
 ---
