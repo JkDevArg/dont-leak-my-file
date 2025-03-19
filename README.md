@@ -83,20 +83,7 @@ dont-leak-my-file/
 
 ├── database.py # Manejo de base de datos SQLite
 
-├── gui.py # Interfaz gráfica
 
-├── watermark.py # Sistema de watermarking
-
-└── documents.db # Base de datos de registros
-
----
-
-## Mecanismo de protección 🔒
-
-1. Genera UUID único para cada documento
-2. Crea metadatos cifrados con AES-256-CBC
-3. Incrusta los datos en el archivo usando:
-   - Marcador binario al final del archivo
 4. Registra el documento en base de datos local
 
 ---
